@@ -1,4 +1,4 @@
-/* This will change background color, font color, font family, font size and margins,     if screen width more than 10 px */@media (min-width:10px){ h1{ color: green;   background-color: black;    font-size: 20;  margin-left: 5px;   margin-top: 10px;   font-family: sams serif;    }}/* This will change background color, font color, font family, font size, margins and also add border,     if screen width more than 500 px */@media (min-width:500px){   h1{ color: white;   font-size: 40;  margin-left: 10px;  margin-top: 10px;   border: 5px red solid;  background-color: black;    font-family: sams serif;}}/* This will change background color, font color, font family, font size, margins and add border,     if screen width more than 1000 px */@media (min-width:1000px){  h1{ color: red; font-size: 60;  margin-left: 10px;  margin-top: 10px;   border: 10px green solid;   background-color: black;    font-family: sams serif;}}s 4
+h1{
     font-family:monospace;
     font-size:30pt;
     color:blue;
